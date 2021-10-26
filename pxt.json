@@ -1,5 +1,5 @@
 {
-    "name": "USB Serial",
+    "name": "USB Serial Audio",
     "description": "",
     "dependencies": {
         "core": "*",
